@@ -1,0 +1,96 @@
+{
+  "id": "agent",
+  "repos": [
+    {
+      "slug": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "summary": "Make websites accessible for AI agents.",
+      "language": "Python",
+      "owner": "browser-use",
+      "name": "browser-use",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "stars": 109754,
+      "forks": 12061,
+      "issues": 361,
+      "updatedAt": "2026-08-19T16:21:40Z"
+    },
+    {
+      "slug": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "summary": "Open-source long-horizon SuperAgent harness.",
+      "language": "Python",
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4158466?v=4",
+      "stars": 80321,
+      "forks": 11012,
+      "issues": 943,
+      "updatedAt": "2026-08-19T16:23:21Z"
+    },
+    {
+      "slug": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "summary": "Open worker runtime for building and running agents.",
+      "language": "Python",
+      "owner": "andrewyng",
+      "name": "openworker",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3710007?v=4",
+      "stars": 14819,
+      "forks": 2051,
+      "issues": 444,
+      "updatedAt": "2026-08-19T15:38:51Z"
+    },
+    {
+      "slug": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "summary": "Agent–user interaction protocol for frontends.",
+      "language": "Python",
+      "owner": "ag-ui-protocol",
+      "name": "ag-ui",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/209775067?v=4",
+      "stars": 15389,
+      "forks": 1388,
+      "issues": 344,
+      "updatedAt": "2026-08-19T14:42:44Z"
+    },
+    {
+      "slug": "mastra-ai/mastra",
+      "url": "https://github.com/mastra-ai/mastra",
+      "summary": "TypeScript framework for AI-powered apps and agents.",
+      "language": "TypeScript",
+      "owner": "mastra-ai",
+      "name": "mastra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/149120496?v=4",
+      "stars": 27306,
+      "forks": 2658,
+      "issues": 444,
+      "updatedAt": "2026-08-19T16:09:26Z"
+    },
+    {
+      "slug": "vercel/ai",
+      "url": "https://github.com/vercel/ai",
+      "summary": "Vercel AI SDK — TypeScript toolkit for apps and agents.",
+      "language": "TypeScript",
+      "owner": "vercel",
+      "name": "ai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+      "stars": 26300,
+      "forks": 4987,
+      "issues": 1769,
+      "updatedAt": "2026-08-19T16:08:56Z"
+    },
+    {
+      "slug": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "summary": "Assign issues to coding agents like teammates.",
+      "language": "Go",
+      "owner": "multica-ai",
+      "name": "multica",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254743058?v=4",
+      "stars": 46841,
+      "forks": 5985,
+      "issues": 1379,
+      "updatedAt": "2026-08-19T16:18:58Z"
+    }
+  ]
+}

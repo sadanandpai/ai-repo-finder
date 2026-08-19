@@ -1,0 +1,8 @@
+---
+alwaysApply: true
+---
+
+# Confirm before coding
+
+If there is a code change to be done, give an overview of the changes and then proceed after user
+approval.
