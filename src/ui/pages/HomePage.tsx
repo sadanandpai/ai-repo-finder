@@ -13,13 +13,13 @@ const WHY = [
     Icon: BadgeCheck,
   },
   {
-    title: 'Three clear buckets',
-    body: 'Coding is the repo. Agent is the runtime. Knowledge is memory.',
+    title: 'Four clear buckets',
+    body: 'Coding is the repo. Agent is the runtime. Frameworks are how you build. Skills are behavior packs.',
     Icon: Layers,
   },
   {
     title: 'Built for agents',
-    body: 'Index, harness, MCP, memory. The stack around the model.',
+    body: 'Index, harness, MCP, memory, skills. The stack around the model.',
     Icon: Cpu,
   },
 ] as const;
@@ -42,7 +42,7 @@ export function HomePage() {
           Repos that make coding agents useful.
         </h1>
         <p className="max-w-xl text-muted text-pretty">
-          Coding tools, agent runtimes, and knowledge hubs — picked for people who ship with agents.
+          Coding, Agent, Frameworks, and Skills — picked for people who ship with agents.
         </p>
         <Button asChild size="lg">
           <Link to="/explore">
@@ -52,25 +52,17 @@ export function HomePage() {
         </Button>
       </section>
 
-      <section className="grid gap-4">
-        <h2 className="text-xs font-medium tracking-[0.12em] text-muted uppercase">
-          Trending today
-        </h2>
+      <section className="grid justify-items-center gap-4 text-center">
         {status === 'loading' ? <StatusMessage title="Loading repos…" /> : null}
         {status === 'error' ? (
           <StatusMessage title="Could not load repos" body={error ?? undefined} />
         ) : null}
         {status === 'ready' && featured ? (
-          <div className="grid gap-3">
-            <p className="text-xs font-medium tracking-[0.12em] text-accent uppercase">
+          <div className="grid w-full max-w-xl gap-3 text-left">
+            <p className="text-xs font-medium tracking-[0.12em] text-accent text-center uppercase">
               Repo of the day
             </p>
-            <div className="max-w-xl">
-              <RepoCard
-                repo={featured}
-                categoryName={categoryById(featured.category).name}
-              />
-            </div>
+            <RepoCard repo={featured} categoryName={categoryById(featured.category).name} />
           </div>
         ) : null}
       </section>

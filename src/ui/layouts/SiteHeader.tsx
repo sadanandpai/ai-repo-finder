@@ -15,7 +15,7 @@ export function SiteHeader({ onSearchClick }: Props) {
     <header className="mb-10 flex items-center justify-between gap-4">
       <Link
         to="/"
-        className="text-[13px] tracking-[0.08em] text-muted uppercase hover:text-ink"
+        className="text-sm font-semibold tracking-[0.08em] text-accent uppercase hover:text-ink"
       >
         AI Repo Finder
       </Link>
@@ -24,7 +24,7 @@ export function SiteHeader({ onSearchClick }: Props) {
           to="/explore"
           className={({ isActive }) =>
             cn(
-              'text-sm transition-colors',
+              'hidden text-sm transition-colors sm:inline',
               isActive ? 'text-accent' : 'text-muted hover:text-ink',
             )
           }

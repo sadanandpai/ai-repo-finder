@@ -1,34 +1,34 @@
-# React + TypeScript + Vite
+# AI Repo Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Curated GitHub catalog of repos that make coding agents useful.
 
-Currently, two official plugins are available:
+Live: [sadanandpai.github.io/ai-repo-finder](https://sadanandpai.github.io/ai-repo-finder/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Categories
 
-## React Compiler
+Each bucket is defined by **what the tool operates on**:
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+| Category                                  | Object                   | Data                           |
+| ----------------------------------------- | ------------------------ | ------------------------------ |
+| [Coding](public/data/coding.json)         | a codebase               | index, pack, review, IDE       |
+| [Agent](public/data/agent.json)           | the agent runtime        | runtimes, MCP, browser, memory |
+| [Frameworks](public/data/frameworks.json) | how you build            | SDKs, protocols, frameworks    |
+| [Skills](public/data/skills.json)         | the agent's instructions | SKILL.md, `.agents`, packs     |
 
-Note: This will impact Vite dev & build performances.
+Lists live in `public/data/<slug>.json`. Category metadata is in `src/logic/categories.ts`.
 
-## Expanding the Oxlint configuration
+## Develop
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```bash
+npm install
+npm run dev
+npm run build
+npm run lint
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+Node 24. Vite + React 19. Hash router so GitHub Pages works without a `404.html` rewrite
+(`/ai-repo-finder/#/explore/coding`).
+
+## Deploy
+
+Push to `main` → `.github/workflows/deploy-pages.yml` builds and deploys GitHub Pages.

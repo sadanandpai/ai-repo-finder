@@ -1,4 +1,4 @@
-export const CATEGORY_IDS = ['coding', 'agent', 'knowledge'] as const;
+export const CATEGORY_IDS = ['coding', 'agent', 'frameworks', 'skills'] as const;
 
 export type CategoryId = (typeof CATEGORY_IDS)[number];
 
@@ -6,7 +6,7 @@ export type Category = {
   id: CategoryId;
   name: string;
   slug: string;
-  /** What the tool operates on. One object per category. */
+  /** What the tool operates on. Coding = repo, agent = runtime, frameworks = how you build, skills = behavior. */
   object: string;
   blurb: string;
 };

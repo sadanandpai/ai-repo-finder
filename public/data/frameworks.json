@@ -1,0 +1,57 @@
+{
+  "id": "frameworks",
+  "repos": [
+    {
+      "slug": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "summary": "Open-source long-horizon SuperAgent harness.",
+      "language": "Python",
+      "owner": "bytedance",
+      "name": "deer-flow",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4158466?v=4",
+      "stars": 80324,
+      "forks": 11014,
+      "issues": 944,
+      "updatedAt": "2026-08-19T17:32:23Z"
+    },
+    {
+      "slug": "mastra-ai/mastra",
+      "url": "https://github.com/mastra-ai/mastra",
+      "summary": "TypeScript framework for AI-powered apps and agents.",
+      "language": "TypeScript",
+      "owner": "mastra-ai",
+      "name": "mastra",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/149120496?v=4",
+      "stars": 27308,
+      "forks": 2658,
+      "issues": 444,
+      "updatedAt": "2026-08-19T17:21:42Z"
+    },
+    {
+      "slug": "vercel/ai",
+      "url": "https://github.com/vercel/ai",
+      "summary": "Vercel AI SDK — TypeScript toolkit for apps and agents.",
+      "language": "TypeScript",
+      "owner": "vercel",
+      "name": "ai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
+      "stars": 26302,
+      "forks": 4987,
+      "issues": 1769,
+      "updatedAt": "2026-08-19T17:03:31Z"
+    },
+    {
+      "slug": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "summary": "Agent–user interaction protocol for frontends.",
+      "language": "Python",
+      "owner": "ag-ui-protocol",
+      "name": "ag-ui",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/209775067?v=4",
+      "stars": 15391,
+      "forks": 1388,
+      "issues": 345,
+      "updatedAt": "2026-08-19T17:11:02Z"
+    }
+  ]
+}

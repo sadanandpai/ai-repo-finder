@@ -1,0 +1,57 @@
+{
+  "id": "agent",
+  "repos": [
+    {
+      "slug": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "summary": "Make websites accessible for AI agents.",
+      "language": "Python",
+      "owner": "browser-use",
+      "name": "browser-use",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/192012301?v=4",
+      "stars": 109760,
+      "forks": 12064,
+      "issues": 360,
+      "updatedAt": "2026-08-19T17:34:24Z"
+    },
+    {
+      "slug": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "summary": "Open worker runtime for building and running agents.",
+      "language": "Python",
+      "owner": "andrewyng",
+      "name": "openworker",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/3710007?v=4",
+      "stars": 14822,
+      "forks": 2051,
+      "issues": 444,
+      "updatedAt": "2026-08-19T16:46:38Z"
+    },
+    {
+      "slug": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "summary": "Self-hosted AI memory platform with a knowledge graph.",
+      "language": "Python",
+      "owner": "topoteretes",
+      "name": "cognee",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125468716?v=4",
+      "stars": 30120,
+      "forks": 2936,
+      "issues": 359,
+      "updatedAt": "2026-08-19T17:15:48Z"
+    },
+    {
+      "slug": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "summary": "Local-first personal memory and agent orchestrator.",
+      "language": "Rust",
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/246003628?v=4",
+      "stars": 36383,
+      "forks": 3631,
+      "issues": 217,
+      "updatedAt": "2026-08-19T17:32:04Z"
+    }
+  ]
+}

@@ -9,10 +9,10 @@
       "owner": "colbymchenry",
       "name": "codegraph",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?v=4",
-      "stars": 67073,
-      "forks": 4257,
+      "stars": 67079,
+      "forks": 4259,
       "issues": 435,
-      "updatedAt": "2026-08-19T16:19:50Z"
+      "updatedAt": "2026-08-19T17:34:33Z"
     },
     {
       "slug": "tirth8205/code-review-graph",
@@ -22,10 +22,10 @@
       "owner": "tirth8205",
       "name": "code-review-graph",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68604113?v=4",
-      "stars": 30564,
+      "stars": 30565,
       "forks": 2783,
       "issues": 88,
-      "updatedAt": "2026-08-19T16:14:32Z"
+      "updatedAt": "2026-08-19T17:28:02Z"
     },
     {
       "slug": "DeusData/codebase-memory-mcp",
@@ -35,10 +35,49 @@
       "owner": "DeusData",
       "name": "codebase-memory-mcp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?v=4",
-      "stars": 39548,
-      "forks": 3178,
+      "stars": 39555,
+      "forks": 3179,
       "issues": 472,
-      "updatedAt": "2026-08-19T16:20:17Z"
+      "updatedAt": "2026-08-19T17:34:35Z"
+    },
+    {
+      "slug": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "summary": "Turn a codebase, docs, schemas, and PDFs into a queryable graph.",
+      "language": "Python",
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/297659074?v=4",
+      "stars": 108256,
+      "forks": 10510,
+      "issues": 1006,
+      "updatedAt": "2026-08-19T17:35:42Z"
+    },
+    {
+      "slug": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "summary": "Persistent memory for AI coding agents.",
+      "language": "TypeScript",
+      "owner": "rohitg00",
+      "name": "agentmemory",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48523873?v=4",
+      "stars": 27181,
+      "forks": 2323,
+      "issues": 478,
+      "updatedAt": "2026-08-19T17:23:52Z"
+    },
+    {
+      "slug": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "summary": "Distributed graph issue tracker — memory upgrade for agents.",
+      "language": "Go",
+      "owner": "gastownhall",
+      "name": "beads",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/255961667?v=4",
+      "stars": 26448,
+      "forks": 1780,
+      "issues": 716,
+      "updatedAt": "2026-08-19T17:24:41Z"
     },
     {
       "slug": "yamadashy/repomix",
@@ -61,10 +100,10 @@
       "owner": "stablyai",
       "name": "orca",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
-      "stars": 48921,
-      "forks": 3381,
-      "issues": 4160,
-      "updatedAt": "2026-08-19T16:21:25Z"
+      "stars": 48956,
+      "forks": 3382,
+      "issues": 4165,
+      "updatedAt": "2026-08-19T17:35:40Z"
     },
     {
       "slug": "get-bb/bb",
@@ -74,10 +113,23 @@
       "owner": "get-bb",
       "name": "bb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/313143606?v=4",
-      "stars": 2365,
+      "stars": 2368,
       "forks": 266,
-      "issues": 219,
-      "updatedAt": "2026-08-19T16:20:16Z"
+      "issues": 214,
+      "updatedAt": "2026-08-19T17:34:49Z"
+    },
+    {
+      "slug": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "summary": "Assign issues to coding agents like teammates.",
+      "language": "Go",
+      "owner": "multica-ai",
+      "name": "multica",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/254743058?v=4",
+      "stars": 46845,
+      "forks": 5985,
+      "issues": 1380,
+      "updatedAt": "2026-08-19T17:33:01Z"
     },
     {
       "slug": "langchain-ai/openwiki",
@@ -88,9 +140,9 @@
       "name": "openwiki",
       "avatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
       "stars": 15349,
-      "forks": 1107,
-      "issues": 139,
-      "updatedAt": "2026-08-19T16:24:02Z"
+      "forks": 1108,
+      "issues": 140,
+      "updatedAt": "2026-08-19T16:59:32Z"
     },
     {
       "slug": "rtk-ai/rtk",
@@ -100,62 +152,10 @@
       "owner": "rtk-ai",
       "name": "rtk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/258253854?v=4",
-      "stars": 76658,
-      "forks": 4821,
+      "stars": 76665,
+      "forks": 4824,
       "issues": 1972,
-      "updatedAt": "2026-08-19T16:17:41Z"
-    },
-    {
-      "slug": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "summary": "Claude Code skill that cuts tokens by talking like caveman.",
-      "language": "Go",
-      "owner": "JuliusBrussee",
-      "name": "caveman",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
-      "stars": 99181,
-      "forks": 5755,
-      "issues": 353,
-      "updatedAt": "2026-08-19T16:21:22Z"
-    },
-    {
-      "slug": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "summary": "Reusable agent skills from a real .agents directory.",
-      "language": "Shell",
-      "owner": "mattpocock",
-      "name": "skills",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4",
-      "stars": 223222,
-      "forks": 19212,
-      "issues": 370,
-      "updatedAt": "2026-08-19T16:24:09Z"
-    },
-    {
-      "slug": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "summary": "Skill that makes an agent think like a lazy senior.",
-      "language": "JavaScript",
-      "owner": "DietrichGebert",
-      "name": "ponytail",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
-      "stars": 105827,
-      "forks": 5848,
-      "issues": 148,
-      "updatedAt": "2026-08-19T16:17:53Z"
-    },
-    {
-      "slug": "Nutlope/hallmark",
-      "url": "https://github.com/nutlope/hallmark",
-      "summary": "Anti-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "owner": "Nutlope",
-      "name": "hallmark",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/63742054?v=4",
-      "stars": 25780,
-      "forks": 1318,
-      "issues": 41,
-      "updatedAt": "2026-08-19T16:12:18Z"
+      "updatedAt": "2026-08-19T17:19:56Z"
     }
   ]
 }

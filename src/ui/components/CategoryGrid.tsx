@@ -1,4 +1,4 @@
-import { BookMarked, Bot, Code } from 'lucide-react';
+import { Blocks, Bot, Code, Sparkles } from 'lucide-react';
 import { NavLink } from 'react-router';
 import type { Category, CategoryId } from '../../logic/index.ts';
 import { cn } from '../lib/cn.ts';
@@ -13,12 +13,13 @@ type Props = {
 const ICONS: Record<CategoryId, typeof Code> = {
   coding: Code,
   agent: Bot,
-  knowledge: BookMarked,
+  frameworks: Blocks,
+  skills: Sparkles,
 };
 
 export function CategoryGrid({ categories, counts }: Props) {
   return (
-    <nav aria-label="Categories" className="grid gap-2 sm:grid-cols-3">
+    <nav aria-label="Categories" className="grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
       {categories.map((category) => {
         const Icon = ICONS[category.id];
         const count = counts[category.slug];

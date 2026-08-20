@@ -62,7 +62,7 @@ export function ExplorePage() {
       {explore.unknownCategory ? (
         <StatusMessage
           title="Unknown category"
-          body="Pick All, Coding tools, Agent tools, or Knowledge hubs."
+          body="Pick All, Coding, Agent, Frameworks, or Skills."
         />
       ) : (
         <>
@@ -119,7 +119,7 @@ export function ExplorePage() {
               meta={
                 explore.category
                   ? explore.category.blurb
-                  : 'Coding tools, agent runtimes, and knowledge hubs.'
+                  : 'Coding, Agent, Frameworks, and Skills.'
               }
               repos={explore.repos}
               categoryName={(id) => categoryById(id).name}

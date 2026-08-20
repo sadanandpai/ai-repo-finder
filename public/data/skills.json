@@ -1,0 +1,57 @@
+{
+  "id": "skills",
+  "repos": [
+    {
+      "slug": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "Claude Code skill that cuts tokens by talking like caveman.",
+      "language": "Go",
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/104168679?v=4",
+      "stars": 99196,
+      "forks": 5755,
+      "issues": 353,
+      "updatedAt": "2026-08-19T17:32:16Z"
+    },
+    {
+      "slug": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "Reusable agent skills from a real .agents directory.",
+      "language": "Shell",
+      "owner": "mattpocock",
+      "name": "skills",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28293365?v=4",
+      "stars": 223325,
+      "forks": 19221,
+      "issues": 370,
+      "updatedAt": "2026-08-19T17:35:55Z"
+    },
+    {
+      "slug": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "Skill that makes an agent think like a lazy senior.",
+      "language": "JavaScript",
+      "owner": "DietrichGebert",
+      "name": "ponytail",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/137048761?v=4",
+      "stars": 105852,
+      "forks": 5850,
+      "issues": 148,
+      "updatedAt": "2026-08-19T17:33:25Z"
+    },
+    {
+      "slug": "Nutlope/hallmark",
+      "url": "https://github.com/nutlope/hallmark",
+      "summary": "Anti-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/63742054?v=4",
+      "stars": 25783,
+      "forks": 1319,
+      "issues": 41,
+      "updatedAt": "2026-08-19T17:01:11Z"
+    }
+  ]
+}
