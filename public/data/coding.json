@@ -9,10 +9,10 @@
       "owner": "colbymchenry",
       "name": "codegraph",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?v=4",
-      "stars": 67079,
-      "forks": 4259,
-      "issues": 435,
-      "updatedAt": "2026-08-19T17:34:33Z"
+      "stars": 67569,
+      "forks": 4287,
+      "issues": 438,
+      "updatedAt": "2026-08-21T16:15:43Z"
     },
     {
       "slug": "tirth8205/code-review-graph",
@@ -22,10 +22,10 @@
       "owner": "tirth8205",
       "name": "code-review-graph",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68604113?v=4",
-      "stars": 30565,
-      "forks": 2783,
-      "issues": 88,
-      "updatedAt": "2026-08-19T17:28:02Z"
+      "stars": 30664,
+      "forks": 2793,
+      "issues": 95,
+      "updatedAt": "2026-08-21T16:06:20Z"
     },
     {
       "slug": "DeusData/codebase-memory-mcp",
@@ -35,10 +35,10 @@
       "owner": "DeusData",
       "name": "codebase-memory-mcp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?v=4",
-      "stars": 39555,
-      "forks": 3179,
-      "issues": 472,
-      "updatedAt": "2026-08-19T17:34:35Z"
+      "stars": 39788,
+      "forks": 3198,
+      "issues": 470,
+      "updatedAt": "2026-08-21T16:10:08Z"
     },
     {
       "slug": "Graphify-Labs/graphify",
@@ -48,10 +48,10 @@
       "owner": "Graphify-Labs",
       "name": "graphify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/297659074?v=4",
-      "stars": 108256,
-      "forks": 10510,
-      "issues": 1006,
-      "updatedAt": "2026-08-19T17:35:42Z"
+      "stars": 109033,
+      "forks": 10590,
+      "issues": 1029,
+      "updatedAt": "2026-08-21T16:15:24Z"
     },
     {
       "slug": "rohitg00/agentmemory",
@@ -61,23 +61,23 @@
       "owner": "rohitg00",
       "name": "agentmemory",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48523873?v=4",
-      "stars": 27181,
-      "forks": 2323,
-      "issues": 478,
-      "updatedAt": "2026-08-19T17:23:52Z"
+      "stars": 27240,
+      "forks": 2330,
+      "issues": 488,
+      "updatedAt": "2026-08-21T15:56:53Z"
     },
     {
       "slug": "gastownhall/beads",
       "url": "https://github.com/gastownhall/beads",
-      "summary": "Distributed graph issue tracker — memory upgrade for agents.",
+      "summary": "Distributed graph issue tracker \u2014 memory upgrade for agents.",
       "language": "Go",
       "owner": "gastownhall",
       "name": "beads",
       "avatarUrl": "https://avatars.githubusercontent.com/u/255961667?v=4",
-      "stars": 26448,
-      "forks": 1780,
-      "issues": 716,
-      "updatedAt": "2026-08-19T17:24:41Z"
+      "stars": 26497,
+      "forks": 1783,
+      "issues": 724,
+      "updatedAt": "2026-08-21T16:11:37Z"
     },
     {
       "slug": "yamadashy/repomix",
@@ -87,10 +87,10 @@
       "owner": "yamadashy",
       "name": "repomix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5019072?v=4",
-      "stars": 27959,
-      "forks": 1491,
+      "stars": 27990,
+      "forks": 1495,
       "issues": 133,
-      "updatedAt": "2026-08-19T16:23:56Z"
+      "updatedAt": "2026-08-21T15:56:51Z"
     },
     {
       "slug": "stablyai/orca",
@@ -100,10 +100,10 @@
       "owner": "stablyai",
       "name": "orca",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
-      "stars": 48956,
-      "forks": 3382,
-      "issues": 4165,
-      "updatedAt": "2026-08-19T17:35:40Z"
+      "stars": 50549,
+      "forks": 3488,
+      "issues": 4337,
+      "updatedAt": "2026-08-21T16:17:29Z"
     },
     {
       "slug": "get-bb/bb",
@@ -113,10 +113,10 @@
       "owner": "get-bb",
       "name": "bb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/313143606?v=4",
-      "stars": 2368,
-      "forks": 266,
-      "issues": 214,
-      "updatedAt": "2026-08-19T17:34:49Z"
+      "stars": 2506,
+      "forks": 286,
+      "issues": 234,
+      "updatedAt": "2026-08-21T15:48:31Z"
     },
     {
       "slug": "multica-ai/multica",
@@ -126,10 +126,10 @@
       "owner": "multica-ai",
       "name": "multica",
       "avatarUrl": "https://avatars.githubusercontent.com/u/254743058?v=4",
-      "stars": 46845,
-      "forks": 5985,
-      "issues": 1380,
-      "updatedAt": "2026-08-19T17:33:01Z"
+      "stars": 47192,
+      "forks": 6036,
+      "issues": 1364,
+      "updatedAt": "2026-08-21T16:09:34Z"
     },
     {
       "slug": "langchain-ai/openwiki",
@@ -139,10 +139,10 @@
       "owner": "langchain-ai",
       "name": "openwiki",
       "avatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
-      "stars": 15349,
-      "forks": 1108,
-      "issues": 140,
-      "updatedAt": "2026-08-19T16:59:32Z"
+      "stars": 15449,
+      "forks": 1113,
+      "issues": 126,
+      "updatedAt": "2026-08-21T16:11:20Z"
     },
     {
       "slug": "rtk-ai/rtk",
@@ -152,10 +152,270 @@
       "owner": "rtk-ai",
       "name": "rtk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/258253854?v=4",
-      "stars": 76665,
-      "forks": 4824,
-      "issues": 1972,
-      "updatedAt": "2026-08-19T17:19:56Z"
+      "stars": 76931,
+      "forks": 4835,
+      "issues": 1984,
+      "updatedAt": "2026-08-21T16:12:19Z"
+    },
+    {
+      "slug": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "summary": "Toolkit for spec-driven development with coding agents.",
+      "language": "Python",
+      "owner": "github",
+      "name": "spec-kit",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
+      "stars": 130651,
+      "forks": 11726,
+      "issues": 335,
+      "updatedAt": "2026-08-21T15:59:40Z"
+    },
+    {
+      "slug": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "summary": "Desktop switcher for Claude Code, Codex, OpenCode, and more.",
+      "language": "Rust",
+      "owner": "farion1231",
+      "name": "cc-switch",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
+      "stars": 128686,
+      "forks": 8803,
+      "issues": 2331,
+      "updatedAt": "2026-08-21T15:59:20Z"
+    },
+    {
+      "slug": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "summary": "Gemini coding agent in the terminal.",
+      "language": "TypeScript",
+      "owner": "google-gemini",
+      "name": "gemini-cli",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
+      "stars": 106598,
+      "forks": 14456,
+      "issues": 798,
+      "updatedAt": "2026-08-21T15:13:29Z"
+    },
+    {
+      "slug": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "Persistent session memory for coding agents.",
+      "language": "JavaScript",
+      "owner": "thedotmack",
+      "name": "claude-mem",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/683968?v=4",
+      "stars": 91423,
+      "forks": 8004,
+      "issues": 256,
+      "updatedAt": "2026-08-21T16:10:11Z"
+    },
+    {
+      "slug": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "summary": "AI-driven software development agent that writes and edits a codebase.",
+      "language": "TypeScript",
+      "owner": "OpenHands",
+      "name": "OpenHands",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/225919603?v=4",
+      "stars": 84706,
+      "forks": 11038,
+      "issues": 522,
+      "updatedAt": "2026-08-21T16:00:25Z"
+    },
+    {
+      "slug": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "summary": "Secure elastic infra for running AI-generated code.",
+      "language": "",
+      "owner": "daytonaio",
+      "name": "daytona",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/130513197?v=4",
+      "stars": 71928,
+      "forks": 5646,
+      "issues": 442,
+      "updatedAt": "2026-08-21T16:03:31Z"
+    },
+    {
+      "slug": "code-yeongyu/oh-my-openagent",
+      "url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "summary": "Token-efficient coding-agent harness for complex codebases.",
+      "language": "TypeScript",
+      "owner": "code-yeongyu",
+      "name": "oh-my-openagent",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11153873?v=4",
+      "stars": 68187,
+      "forks": 5570,
+      "issues": 790,
+      "updatedAt": "2026-08-21T16:09:16Z"
+    },
+    {
+      "slug": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "summary": "Compress tool output and files before they hit the LLM.",
+      "language": "Python",
+      "owner": "headroomlabs-ai",
+      "name": "headroom",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/294291659?v=4",
+      "stars": 67086,
+      "forks": 5173,
+      "issues": 504,
+      "updatedAt": "2026-08-21T16:06:03Z"
+    },
+    {
+      "slug": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "summary": "Spec-driven development for AI coding assistants.",
+      "language": "TypeScript",
+      "owner": "Fission-AI",
+      "name": "OpenSpec",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/203414896?v=4",
+      "stars": 65799,
+      "forks": 4522,
+      "issues": 192,
+      "updatedAt": "2026-08-21T16:12:37Z"
+    },
+    {
+      "slug": "upstash/context7",
+      "url": "https://github.com/upstash/context7",
+      "summary": "Up-to-date library docs injected into LLM coding tools.",
+      "language": "TypeScript",
+      "owner": "upstash",
+      "name": "context7",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/74989412?v=4",
+      "stars": 61045,
+      "forks": 2939,
+      "issues": 40,
+      "updatedAt": "2026-08-21T16:13:40Z"
+    },
+    {
+      "slug": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "summary": "Open-source AI pentest agent that finds and fixes app vulns.",
+      "language": "Python",
+      "owner": "usestrix",
+      "name": "strix",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/187630752?v=4",
+      "stars": 56574,
+      "forks": 6098,
+      "issues": 313,
+      "updatedAt": "2026-08-21T16:09:20Z"
+    },
+    {
+      "slug": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "summary": "Extensible coding agent that installs, edits, runs, and tests.",
+      "language": "Rust",
+      "owner": "aaif-goose",
+      "name": "goose",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/271095942?v=4",
+      "stars": 53166,
+      "forks": 6062,
+      "issues": 223,
+      "updatedAt": "2026-08-21T16:15:19Z"
+    },
+    {
+      "slug": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "summary": "Chrome DevTools as an MCP server for coding agents.",
+      "language": "TypeScript",
+      "owner": "ChromeDevTools",
+      "name": "chrome-devtools-mcp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/11260967?v=4",
+      "stars": 49538,
+      "forks": 3458,
+      "issues": 103,
+      "updatedAt": "2026-08-21T16:03:55Z"
+    },
+    {
+      "slug": "Hmbown/CodeWhale",
+      "url": "https://github.com/Hmbown/CodeWhale",
+      "summary": "Open-source terminal coding agent written in Rust.",
+      "language": "Rust",
+      "owner": "Hmbown",
+      "name": "CodeWhale",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/101357273?v=4",
+      "stars": 40833,
+      "forks": 3535,
+      "issues": 137,
+      "updatedAt": "2026-08-21T16:12:11Z"
+    },
+    {
+      "slug": "Yeachan-Heo/oh-my-claudecode",
+      "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "summary": "Teams-first multi-agent orchestration for Claude Code.",
+      "language": "TypeScript",
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-claudecode",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/54757707?v=4",
+      "stars": 38706,
+      "forks": 3475,
+      "issues": 3,
+      "updatedAt": "2026-08-21T15:26:40Z"
+    },
+    {
+      "slug": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "summary": "Official GitHub MCP server for issues, PRs, and repos.",
+      "language": "Go",
+      "owner": "github",
+      "name": "github-mcp-server",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
+      "stars": 32407,
+      "forks": 4829,
+      "issues": 325,
+      "updatedAt": "2026-08-21T15:03:39Z"
+    },
+    {
+      "slug": "herdrdev/herdr",
+      "url": "https://github.com/herdrdev/herdr",
+      "summary": "Runtime that hosts and coordinates coding agents.",
+      "language": "Rust",
+      "owner": "herdrdev",
+      "name": "herdr",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/309108654?v=4",
+      "stars": 31291,
+      "forks": 2233,
+      "issues": 218,
+      "updatedAt": "2026-08-21T16:14:30Z"
+    },
+    {
+      "slug": "charmbracelet/crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "summary": "Glamorous terminal UI for agentic coding.",
+      "language": "Go",
+      "owner": "charmbracelet",
+      "name": "crush",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57376114?v=4",
+      "stars": 27557,
+      "forks": 2173,
+      "issues": 663,
+      "updatedAt": "2026-08-21T16:10:14Z"
+    },
+    {
+      "slug": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "summary": "Local open-source AI app builder for power users.",
+      "language": "TypeScript",
+      "owner": "dyad-sh",
+      "name": "dyad",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/183970190?v=4",
+      "stars": 21296,
+      "forks": 2591,
+      "issues": 292,
+      "updatedAt": "2026-08-21T11:37:58Z"
+    },
+    {
+      "slug": "cobusgreyling/loop-engineering",
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "summary": "Patterns and CLI tools for loop engineering with coding agents.",
+      "language": "JavaScript",
+      "owner": "cobusgreyling",
+      "name": "loop-engineering",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7868717?v=4",
+      "stars": 10527,
+      "forks": 1444,
+      "issues": 15,
+      "updatedAt": "2026-08-21T14:24:21Z"
     }
   ]
 }

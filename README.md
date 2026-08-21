@@ -29,6 +29,20 @@ npm run lint
 Node 24. Vite + React 19. Hash router so GitHub Pages works without a `404.html` rewrite
 (`/ai-repo-finder/#/explore/coding`).
 
+## Refresh catalog stats
+
+Fetches listed repos from the GitHub API and writes new candidates (not in any list) to
+`data/discovered.json`.
+
+```bash
+GITHUB_TOKEN=ghp_… npm run update-repos
+```
+
+Add another GitHub search in `scripts/repo-helper.ts` (`collectRepos()`).
+
+GitHub Action: `.github/workflows/update-repos.yml` — daily 08:00 IST (02:30 UTC) + manual dispatch. Commits
+catalog diffs; uploads `discovered.json` as an artifact.
+
 ## Deploy
 
 Push to `main` → `.github/workflows/deploy-pages.yml` builds and deploys GitHub Pages.
