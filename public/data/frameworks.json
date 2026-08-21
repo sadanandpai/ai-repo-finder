@@ -9,10 +9,10 @@
       "owner": "bytedance",
       "name": "deer-flow",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4158466?v=4",
-      "stars": 80482,
-      "forks": 11041,
-      "issues": 907,
-      "updatedAt": "2026-08-21T16:55:27Z"
+      "stars": 80484,
+      "forks": 11042,
+      "issues": 910,
+      "updatedAt": "2026-08-21T17:22:48Z"
     },
     {
       "slug": "mastra-ai/mastra",
@@ -24,7 +24,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/149120496?v=4",
       "stars": 27352,
       "forks": 2671,
-      "issues": 505,
+      "issues": 506,
       "updatedAt": "2026-08-21T16:20:03Z"
     },
     {
@@ -35,10 +35,10 @@
       "owner": "vercel",
       "name": "ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
-      "stars": 26334,
-      "forks": 5000,
+      "stars": 26336,
+      "forks": 5001,
       "issues": 1769,
-      "updatedAt": "2026-08-21T16:52:43Z"
+      "updatedAt": "2026-08-21T17:27:15Z"
     },
     {
       "slug": "ag-ui-protocol/ag-ui",
@@ -48,10 +48,10 @@
       "owner": "ag-ui-protocol",
       "name": "ag-ui",
       "avatarUrl": "https://avatars.githubusercontent.com/u/209775067?v=4",
-      "stars": 15470,
+      "stars": 15471,
       "forks": 1392,
       "issues": 336,
-      "updatedAt": "2026-08-21T16:17:49Z"
+      "updatedAt": "2026-08-21T17:31:09Z"
     },
     {
       "slug": "affaan-m/ECC",
@@ -61,10 +61,10 @@
       "owner": "affaan-m",
       "name": "ECC",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
-      "stars": 241675,
+      "stars": 241688,
       "forks": 36641,
       "issues": 145,
-      "updatedAt": "2026-08-21T16:59:50Z"
+      "updatedAt": "2026-08-21T17:38:59Z"
     },
     {
       "slug": "n8n-io/n8n",
@@ -74,10 +74,10 @@
       "owner": "n8n-io",
       "name": "n8n",
       "avatarUrl": "https://avatars.githubusercontent.com/u/45487711?v=4",
-      "stars": 201509,
-      "forks": 60262,
+      "stars": 201513,
+      "forks": 60264,
       "issues": 1057,
-      "updatedAt": "2026-08-21T17:01:46Z"
+      "updatedAt": "2026-08-21T17:34:00Z"
     },
     {
       "slug": "deepseek-ai/deepseek-harness",
@@ -87,10 +87,10 @@
       "owner": "deepseek-ai",
       "name": "deepseek-harness",
       "avatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4",
-      "stars": 180342,
-      "forks": 19689,
+      "stars": 180469,
+      "forks": 19709,
       "issues": 0,
-      "updatedAt": "2026-08-21T17:01:28Z"
+      "updatedAt": "2026-08-21T17:41:11Z"
     },
     {
       "slug": "langflow-ai/langflow",
@@ -100,10 +100,10 @@
       "owner": "langflow-ai",
       "name": "langflow",
       "avatarUrl": "https://avatars.githubusercontent.com/u/85702467?v=4",
-      "stars": 153531,
+      "stars": 153532,
       "forks": 9902,
-      "issues": 965,
-      "updatedAt": "2026-08-21T16:39:42Z"
+      "issues": 967,
+      "updatedAt": "2026-08-21T17:34:47Z"
     },
     {
       "slug": "langgenius/dify",
@@ -113,10 +113,10 @@
       "owner": "langgenius",
       "name": "dify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127165244?v=4",
-      "stars": 153128,
-      "forks": 24177,
-      "issues": 947,
-      "updatedAt": "2026-08-21T16:21:37Z"
+      "stars": 153130,
+      "forks": 24178,
+      "issues": 949,
+      "updatedAt": "2026-08-21T17:25:43Z"
     },
     {
       "slug": "langchain-ai/langchain",
@@ -128,8 +128,8 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
       "stars": 144723,
       "forks": 24109,
-      "issues": 415,
-      "updatedAt": "2026-08-21T16:45:23Z"
+      "issues": 416,
+      "updatedAt": "2026-08-21T17:31:59Z"
     },
     {
       "slug": "FoundationAgents/MetaGPT",
@@ -152,10 +152,10 @@
       "owner": "ruvnet",
       "name": "ruflo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?v=4",
-      "stars": 68580,
+      "stars": 68587,
       "forks": 8237,
       "issues": 830,
-      "updatedAt": "2026-08-21T16:38:59Z"
+      "updatedAt": "2026-08-21T17:38:51Z"
     },
     {
       "slug": "microsoft/autogen",
@@ -191,10 +191,10 @@
       "owner": "BerriAI",
       "name": "litellm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/121462774?v=4",
-      "stars": 56939,
+      "stars": 56941,
       "forks": 10785,
-      "issues": 5052,
-      "updatedAt": "2026-08-21T17:01:08Z"
+      "issues": 5053,
+      "updatedAt": "2026-08-21T17:27:34Z"
     },
     {
       "slug": "diegosouzapw/OmniRoute",
@@ -204,10 +204,10 @@
       "owner": "diegosouzapw",
       "name": "OmniRoute",
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?v=4",
-      "stars": 52490,
-      "forks": 7157,
-      "issues": 138,
-      "updatedAt": "2026-08-21T17:01:19Z"
+      "stars": 52520,
+      "forks": 7159,
+      "issues": 124,
+      "updatedAt": "2026-08-21T17:40:39Z"
     },
     {
       "slug": "run-llama/llama_index",
@@ -230,10 +230,10 @@
       "owner": "agno-agi",
       "name": "agno",
       "avatarUrl": "https://avatars.githubusercontent.com/u/104874993?v=4",
-      "stars": 41824,
+      "stars": 41825,
       "forks": 5804,
-      "issues": 1276,
-      "updatedAt": "2026-08-21T16:06:16Z"
+      "issues": 1278,
+      "updatedAt": "2026-08-21T17:21:15Z"
     },
     {
       "slug": "langchain-ai/langgraph",
@@ -246,7 +246,7 @@
       "stars": 40184,
       "forks": 6766,
       "issues": 706,
-      "updatedAt": "2026-08-21T16:27:07Z"
+      "updatedAt": "2026-08-21T17:18:57Z"
     },
     {
       "slug": "CopilotKit/CopilotKit",
@@ -284,8 +284,8 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/199344406?v=4",
       "stars": 29450,
       "forks": 3781,
-      "issues": 289,
-      "updatedAt": "2026-08-21T15:31:31Z"
+      "issues": 287,
+      "updatedAt": "2026-08-21T17:08:15Z"
     },
     {
       "slug": "microsoft/semantic-kernel",
@@ -308,10 +308,10 @@
       "owner": "deepset-ai",
       "name": "haystack",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51827949?v=4",
-      "stars": 26269,
+      "stars": 26270,
       "forks": 3026,
       "issues": 93,
-      "updatedAt": "2026-08-21T16:49:46Z"
+      "updatedAt": "2026-08-21T17:17:25Z"
     },
     {
       "slug": "a2aproject/A2A",
@@ -334,10 +334,10 @@
       "owner": "promptfoo",
       "name": "promptfoo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/137907881?v=4",
-      "stars": 24441,
+      "stars": 24442,
       "forks": 2217,
       "issues": 512,
-      "updatedAt": "2026-08-21T16:40:08Z"
+      "updatedAt": "2026-08-21T17:17:07Z"
     },
     {
       "slug": "1Panel-dev/MaxKB",
@@ -452,8 +452,8 @@
       "name": "agent-framework",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "stars": 13027,
-      "forks": 2206,
-      "issues": 592,
+      "forks": 2207,
+      "issues": 593,
       "updatedAt": "2026-08-21T16:41:23Z"
     },
     {
@@ -494,6 +494,97 @@
       "forks": 971,
       "issues": 126,
       "updatedAt": "2026-08-21T16:44:11Z"
+    },
+    {
+      "slug": "lidge-jun/opencodex",
+      "url": "https://github.com/lidge-jun/opencodex",
+      "summary": "Proxy that enables any LLM to be used with coding agents like Claude Code and Codex.",
+      "language": "TypeScript",
+      "owner": "lidge-jun",
+      "name": "opencodex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?v=4",
+      "stars": 11649,
+      "forks": 851,
+      "issues": 95,
+      "updatedAt": "2026-08-21T17:31:59Z"
+    },
+    {
+      "slug": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "summary": "An opinionated agent harness and SDK for building long-horizon, multi-step agents.",
+      "language": "Python",
+      "owner": "langchain-ai",
+      "name": "deepagents",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
+      "stars": 28043,
+      "forks": 3921,
+      "issues": 216,
+      "updatedAt": "2026-08-21T17:31:05Z"
+    },
+    {
+      "slug": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "summary": "AI model gateway and router for coding agents that manages provider fallbacks and optimizes token usage.",
+      "language": "JavaScript",
+      "owner": "decolua",
+      "name": "9router",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/8282593?v=4",
+      "stars": 26001,
+      "forks": 4683,
+      "issues": 1717,
+      "updatedAt": "2026-08-21T17:16:06Z"
+    },
+    {
+      "slug": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "summary": "Python SDK for building and orchestrating multi-agent workflows.",
+      "language": "Python",
+      "owner": "openai",
+      "name": "openai-agents-python",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "stars": 28835,
+      "forks": 4549,
+      "issues": 17,
+      "updatedAt": "2026-08-21T16:46:25Z"
+    },
+    {
+      "slug": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "summary": "Reasoning-based RAG framework that uses hierarchical tree indexing for document retrieval.",
+      "language": "Python",
+      "owner": "VectifyAI",
+      "name": "PageIndex",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/133959746?v=4",
+      "stars": 35280,
+      "forks": 3106,
+      "issues": 158,
+      "updatedAt": "2026-08-21T14:30:20Z"
+    },
+    {
+      "slug": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "summary": "A Pythonic framework for building Model Context Protocol (MCP) servers and clients.",
+      "language": "Python",
+      "owner": "PrefectHQ",
+      "name": "fastmcp",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39270919?v=4",
+      "stars": 27324,
+      "forks": 2260,
+      "issues": 274,
+      "updatedAt": "2026-08-21T16:46:44Z"
+    },
+    {
+      "slug": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "summary": "Efficient framework for implementing retrieval-augmented generation (RAG) to provide context to AI agents.",
+      "language": "Python",
+      "owner": "HKUDS",
+      "name": "LightRAG",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "stars": 39061,
+      "forks": 5491,
+      "issues": 208,
+      "updatedAt": "2026-08-21T16:54:07Z"
     }
   ]
 }
