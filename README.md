@@ -31,17 +31,26 @@ Node 24. Vite + React 19. Hash router so GitHub Pages works without a `404.html`
 
 ## Refresh catalog stats
 
-Fetches listed repos from the GitHub API and writes new candidates (not in any list) to
-`data/discovered.json`.
+Fetches listed repos from the GitHub API, writes new candidates to `data/discovered.json`,
+then classifies them with Cloudflare Workers AI (`@cf/google/gemma-4-26b-a4b-it`) and appends accepted repos to
+`public/data/<category>.json`. `none` / low-confidence verdicts are skipped.
 
 ```bash
-GITHUB_TOKEN=ghp_… npm run update-repos
+GITHUB_TOKEN=ghp_… CLOUDFLARE_AUTH_TOKEN=… npm run update-repos
 ```
+
+Classify an existing `data/discovered.json` only:
+
+```bash
+GITHUB_TOKEN=ghp_… CLOUDFLARE_AUTH_TOKEN=… npm run classify-repos
+```
+
+Optional: `CLOUDFLARE_ACCOUNT_ID` (defaults to the provided account), `CLOUDFLARE_AI_MODEL`.
 
 Add another GitHub search in `scripts/repo-helper.ts` (`collectRepos()`).
 
 GitHub Action: `.github/workflows/update-repos.yml` — daily 08:00 IST (02:30 UTC) + manual dispatch. Commits
-catalog diffs; uploads `discovered.json` as an artifact.
+catalog diffs; uploads `discovered.json` as an artifact. Set repo secret `CLOUDFLARE_AUTH_TOKEN` (or `CLOUDFLARE_API_TOKEN`) so classify runs in CI.
 
 ## Deploy
 

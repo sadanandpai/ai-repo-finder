@@ -32,6 +32,8 @@ jobs:
         run: npm run update-repos
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CLOUDFLARE_AUTH_TOKEN: ${{ secrets.CLOUDFLARE_AUTH_TOKEN }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       - name: Upload discovered candidates
         uses: actions/upload-artifact@v4
@@ -49,5 +51,5 @@ jobs:
             echo "No catalog changes"
             exit 0
           fi
-          git commit -m "chore: refresh repo stats from GitHub"
+          git commit -m "chore: refresh catalog from GitHub and LLM judge"
           git push

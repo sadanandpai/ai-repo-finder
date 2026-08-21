@@ -12,7 +12,7 @@ export function requireToken(): string {
   return token;
 }
 
-function sleep(ms: number): Promise<void> {
+export function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
@@ -129,6 +129,42 @@ export function existingSlugs(catalog: { data: CategoryFile }[]): Set<string> {
     }
   }
   return slugs;
+}
+
+const README_CHARS = 3000;
+
+export async function fetchReadme(token: string, owner: string, name: string): Promise<string> {
+  const url = `${API}/repos/${encodeURIComponent(owner)}/${encodeURIComponent(name)}/readme`;
+  const res = await fetch(url, {
+    headers: {
+      Accept: 'application/vnd.github.raw+json',
+      Authorization: `Bearer ${token}`,
+      'User-Agent': 'ai-repo-finder',
+      'X-GitHub-Api-Version': '2022-11-28',
+    },
+  });
+  if (res.status === 404) return '';
+  if (!res.ok) {
+    console.warn(`readme ${owner}/${name}: ${res.status}`);
+    return '';
+  }
+  return (await res.text()).slice(0, README_CHARS);
+}
+
+export function toListedRepo(repo: GitHubRepo, summary: string): ListedRepo {
+  return {
+    slug: repo.slug,
+    url: repo.url,
+    summary,
+    language: repo.language,
+    owner: repo.owner,
+    name: repo.name,
+    avatarUrl: repo.avatarUrl,
+    stars: repo.stars,
+    forks: repo.forks,
+    issues: repo.issues,
+    updatedAt: repo.updatedAt,
+  };
 }
 
 async function fetchRepo(token: string, owner: string, name: string): Promise<GitHubRepo | null> {

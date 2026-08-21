@@ -10,6 +10,8 @@ lerna-debug.log*
 node_modules
 dist
 data/discovered.json
+data/classified.json
+.env
 dist-ssr
 *.local
 

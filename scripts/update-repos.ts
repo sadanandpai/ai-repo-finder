@@ -1,12 +1,13 @@
 /**
  * Collect repo candidates from GitHub, drop ones already in any category
- * list, then refresh catalog JSON from the GitHub API.
+ * list, refresh catalog JSON from the GitHub API, then LLM-judge new
+ * candidates into public/data/<category>.json.
  *
- * Discovery searches live in collectRepos() (popular + 7d/30d growth proxies).
- *
- *   GITHUB_TOKEN=ghp_… npm run update-repos
+ *   GITHUB_TOKEN=ghp_… CLOUDFLARE_AUTH_TOKEN=… npm run update-repos
  */
+import { classifyAndApply } from './classify-repos.ts';
 import { loadCatalog, writeCatalog, writeDiscovered } from './file-helper.ts';
+import { hasCfToken, requireCfToken } from './llm-judge.ts';
 import { collectRepos, existingSlugs, requireToken, updateCatalog } from './repo-helper.ts';
 
 async function main(): Promise<void> {
@@ -22,6 +23,12 @@ async function main(): Promise<void> {
   writeDiscovered(finalList);
   console.log(`refreshed ${listed.size} listed repos in ${catalog.length} files`);
   console.log(`${finalList.length} new candidates -> data/discovered.json`);
+
+  if (!hasCfToken()) {
+    console.log('skip classify: set CLOUDFLARE_AUTH_TOKEN (or CLOUDFLARE_API_TOKEN)');
+    return;
+  }
+  await classifyAndApply(catalog, finalList, token, requireCfToken());
 }
 
 await main();

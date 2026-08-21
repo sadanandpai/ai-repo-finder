@@ -1,6 +1,20 @@
+export const CATALOG_CATEGORY_IDS = ['coding', 'agent', 'frameworks', 'skills'] as const;
+
+export type CatalogCategoryId = (typeof CATALOG_CATEGORY_IDS)[number];
+
+export type JudgeCategory = CatalogCategoryId | 'none';
+
 export type CategoryFile = {
   id: string;
   repos: ListedRepo[];
+};
+
+export type JudgeVerdict = {
+  slug: string;
+  category: JudgeCategory;
+  confidence: number;
+  summary: string;
+  rationale: string;
 };
 
 export type ListedRepo = {
