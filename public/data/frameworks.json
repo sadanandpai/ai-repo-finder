@@ -11,7 +11,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "stars": 80484,
       "forks": 11042,
-      "issues": 910,
+      "createdAt": "2025-05-07T02:50:19Z",
       "updatedAt": "2026-08-21T17:22:48Z"
     },
     {
@@ -24,33 +24,33 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/149120496?v=4",
       "stars": 27352,
       "forks": 2671,
-      "issues": 506,
+      "createdAt": "2024-08-06T20:44:31Z",
       "updatedAt": "2026-08-21T16:20:03Z"
     },
     {
       "slug": "vercel/ai",
       "url": "https://github.com/vercel/ai",
-      "summary": "Vercel AI SDK — TypeScript toolkit for apps and agents.",
+      "summary": "Vercel AI SDK \u2014 TypeScript toolkit for apps and agents.",
       "language": "TypeScript",
       "owner": "vercel",
       "name": "ai",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14985020?v=4",
       "stars": 26336,
       "forks": 5001,
-      "issues": 1769,
+      "createdAt": "2023-05-23T15:04:08Z",
       "updatedAt": "2026-08-21T17:27:15Z"
     },
     {
       "slug": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "summary": "Agent–user interaction protocol for frontends.",
+      "summary": "Agent\u2013user interaction protocol for frontends.",
       "language": "Python",
       "owner": "ag-ui-protocol",
       "name": "ag-ui",
       "avatarUrl": "https://avatars.githubusercontent.com/u/209775067?v=4",
       "stars": 15471,
       "forks": 1392,
-      "issues": 336,
+      "createdAt": "2025-05-07T12:49:37Z",
       "updatedAt": "2026-08-21T17:31:09Z"
     },
     {
@@ -63,7 +63,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/124439313?v=4",
       "stars": 241688,
       "forks": 36641,
-      "issues": 145,
+      "createdAt": "2026-01-18T00:51:51Z",
       "updatedAt": "2026-08-21T17:38:59Z"
     },
     {
@@ -76,20 +76,20 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/45487711?v=4",
       "stars": 201513,
       "forks": 60264,
-      "issues": 1057,
+      "createdAt": "2019-06-22T09:24:21Z",
       "updatedAt": "2026-08-21T17:34:00Z"
     },
     {
       "slug": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "summary": "Plugin-first agent harness — everything is a plugin.",
+      "summary": "Plugin-first agent harness \u2014 everything is a plugin.",
       "language": "TypeScript",
       "owner": "deepseek-ai",
       "name": "deepseek-harness",
       "avatarUrl": "https://avatars.githubusercontent.com/u/148330874?v=4",
       "stars": 180469,
       "forks": 19709,
-      "issues": 0,
+      "createdAt": "2026-08-13T11:56:32Z",
       "updatedAt": "2026-08-21T17:41:11Z"
     },
     {
@@ -102,7 +102,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/85702467?v=4",
       "stars": 153532,
       "forks": 9902,
-      "issues": 967,
+      "createdAt": "2023-02-08T22:28:03Z",
       "updatedAt": "2026-08-21T17:34:47Z"
     },
     {
@@ -115,7 +115,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/127165244?v=4",
       "stars": 153130,
       "forks": 24178,
-      "issues": 949,
+      "createdAt": "2023-04-12T07:40:24Z",
       "updatedAt": "2026-08-21T17:25:43Z"
     },
     {
@@ -128,7 +128,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
       "stars": 144723,
       "forks": 24109,
-      "issues": 416,
+      "createdAt": "2022-10-17T02:58:36Z",
       "updatedAt": "2026-08-21T17:31:59Z"
     },
     {
@@ -141,7 +141,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/198047230?v=4",
       "stars": 69935,
       "forks": 8891,
-      "issues": 130,
+      "createdAt": "2023-06-30T09:04:55Z",
       "updatedAt": "2026-08-21T15:13:33Z"
     },
     {
@@ -154,7 +154,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/2934394?v=4",
       "stars": 68587,
       "forks": 8237,
-      "issues": 830,
+      "createdAt": "2025-06-02T21:24:20Z",
       "updatedAt": "2026-08-21T17:38:51Z"
     },
     {
@@ -167,7 +167,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "stars": 60562,
       "forks": 9127,
-      "issues": 996,
+      "createdAt": "2023-08-18T11:43:45Z",
       "updatedAt": "2026-08-21T16:46:31Z"
     },
     {
@@ -180,7 +180,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/170677839?v=4",
       "stars": 57428,
       "forks": 8203,
-      "issues": 822,
+      "createdAt": "2023-10-27T03:26:59Z",
       "updatedAt": "2026-08-21T15:58:45Z"
     },
     {
@@ -193,7 +193,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/121462774?v=4",
       "stars": 56941,
       "forks": 10785,
-      "issues": 5053,
+      "createdAt": "2023-07-27T00:09:52Z",
       "updatedAt": "2026-08-21T17:27:34Z"
     },
     {
@@ -206,7 +206,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8016841?v=4",
       "stars": 52520,
       "forks": 7159,
-      "issues": 124,
+      "createdAt": "2026-02-13T12:38:31Z",
       "updatedAt": "2026-08-21T17:40:39Z"
     },
     {
@@ -219,7 +219,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/130722866?v=4",
       "stars": 51790,
       "forks": 7979,
-      "issues": 645,
+      "createdAt": "2022-11-02T04:24:54Z",
       "updatedAt": "2026-08-21T16:17:16Z"
     },
     {
@@ -232,7 +232,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/104874993?v=4",
       "stars": 41825,
       "forks": 5804,
-      "issues": 1278,
+      "createdAt": "2022-05-04T15:23:02Z",
       "updatedAt": "2026-08-21T17:21:15Z"
     },
     {
@@ -245,7 +245,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
       "stars": 40184,
       "forks": 6766,
-      "issues": 706,
+      "createdAt": "2023-08-09T18:33:12Z",
       "updatedAt": "2026-08-21T17:18:57Z"
     },
     {
@@ -258,7 +258,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/131273140?v=4",
       "stars": 36935,
       "forks": 4571,
-      "issues": 358,
+      "createdAt": "2023-06-19T04:08:31Z",
       "updatedAt": "2026-08-21T16:07:27Z"
     },
     {
@@ -271,7 +271,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/128464815?v=4",
       "stars": 29806,
       "forks": 4725,
-      "issues": 71,
+      "createdAt": "2024-02-23T13:58:27Z",
       "updatedAt": "2026-08-21T16:54:20Z"
     },
     {
@@ -284,7 +284,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/199344406?v=4",
       "stars": 29450,
       "forks": 3781,
-      "issues": 287,
+      "createdAt": "2025-01-05T22:47:49Z",
       "updatedAt": "2026-08-21T17:08:15Z"
     },
     {
@@ -297,7 +297,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "stars": 28477,
       "forks": 4731,
-      "issues": 249,
+      "createdAt": "2023-02-27T17:39:42Z",
       "updatedAt": "2026-08-21T14:16:36Z"
     },
     {
@@ -310,7 +310,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/51827949?v=4",
       "stars": 26270,
       "forks": 3026,
-      "issues": 93,
+      "createdAt": "2019-11-14T09:05:28Z",
       "updatedAt": "2026-08-21T17:17:25Z"
     },
     {
@@ -323,7 +323,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/217270365?v=4",
       "stars": 25443,
       "forks": 2575,
-      "issues": 236,
+      "createdAt": "2025-03-25T18:44:21Z",
       "updatedAt": "2026-08-21T16:57:05Z"
     },
     {
@@ -336,7 +336,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/137907881?v=4",
       "stars": 24442,
       "forks": 2217,
-      "issues": 512,
+      "createdAt": "2023-04-28T15:48:49Z",
       "updatedAt": "2026-08-21T17:17:07Z"
     },
     {
@@ -349,7 +349,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/109613420?v=4",
       "stars": 22566,
       "forks": 3109,
-      "issues": 21,
+      "createdAt": "2023-09-14T02:05:12Z",
       "updatedAt": "2026-08-21T15:51:53Z"
     },
     {
@@ -362,7 +362,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/157483752?v=4",
       "stars": 21488,
       "forks": 3118,
-      "issues": 545,
+      "createdAt": "2025-06-26T02:19:21Z",
       "updatedAt": "2026-08-21T15:29:55Z"
     },
     {
@@ -375,7 +375,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/1342004?v=4",
       "stars": 21216,
       "forks": 3871,
-      "issues": 536,
+      "createdAt": "2025-04-01T20:44:40Z",
       "updatedAt": "2026-08-21T16:17:07Z"
     },
     {
@@ -388,7 +388,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/134388954?v=4",
       "stars": 20087,
       "forks": 2299,
-      "issues": 116,
+      "createdAt": "2025-03-03T15:42:51Z",
       "updatedAt": "2026-08-21T16:46:48Z"
     },
     {
@@ -401,7 +401,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/133493246?v=4",
       "stars": 17658,
       "forks": 2229,
-      "issues": 268,
+      "createdAt": "2023-05-13T08:55:24Z",
       "updatedAt": "2026-08-21T12:42:38Z"
     },
     {
@@ -414,7 +414,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/134388954?v=4",
       "stars": 17616,
       "forks": 2049,
-      "issues": 469,
+      "createdAt": "2023-03-17T21:41:54Z",
       "updatedAt": "2026-08-21T16:46:47Z"
     },
     {
@@ -427,7 +427,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/142257755?v=4",
       "stars": 15659,
       "forks": 864,
-      "issues": 163,
+      "createdAt": "2023-03-17T16:01:18Z",
       "updatedAt": "2026-08-21T15:29:26Z"
     },
     {
@@ -440,7 +440,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/153323858?v=4",
       "stars": 14038,
       "forks": 1679,
-      "issues": 304,
+      "createdAt": "2026-07-29T20:03:08Z",
       "updatedAt": "2026-08-21T16:48:11Z"
     },
     {
@@ -453,7 +453,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
       "stars": 13027,
       "forks": 2207,
-      "issues": 593,
+      "createdAt": "2025-04-28T19:40:42Z",
       "updatedAt": "2026-08-21T16:41:23Z"
     },
     {
@@ -466,7 +466,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/131141116?v=4",
       "stars": 12790,
       "forks": 1258,
-      "issues": 245,
+      "createdAt": "2023-08-23T11:52:47Z",
       "updatedAt": "2026-08-21T16:56:59Z"
     },
     {
@@ -479,7 +479,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/193350244?v=4",
       "stars": 11120,
       "forks": 1211,
-      "issues": 74,
+      "createdAt": "2024-12-24T02:43:30Z",
       "updatedAt": "2026-08-21T12:12:24Z"
     },
     {
@@ -492,7 +492,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/139012218?v=4",
       "stars": 10612,
       "forks": 971,
-      "issues": 126,
+      "createdAt": "2025-03-10T18:25:47Z",
       "updatedAt": "2026-08-21T16:44:11Z"
     },
     {
@@ -505,7 +505,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/243035832?v=4",
       "stars": 11649,
       "forks": 851,
-      "issues": 95,
+      "createdAt": "2026-06-18T23:03:18Z",
       "updatedAt": "2026-08-21T17:31:59Z"
     },
     {
@@ -518,7 +518,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
       "stars": 28043,
       "forks": 3921,
-      "issues": 216,
+      "createdAt": "2025-07-27T23:07:53Z",
       "updatedAt": "2026-08-21T17:31:05Z"
     },
     {
@@ -531,7 +531,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/8282593?v=4",
       "stars": 26001,
       "forks": 4683,
-      "issues": 1717,
+      "createdAt": "2026-01-05T02:59:30Z",
       "updatedAt": "2026-08-21T17:16:06Z"
     },
     {
@@ -544,7 +544,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
       "stars": 28835,
       "forks": 4549,
-      "issues": 17,
+      "createdAt": "2025-03-11T03:42:36Z",
       "updatedAt": "2026-08-21T16:46:25Z"
     },
     {
@@ -557,7 +557,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/133959746?v=4",
       "stars": 35280,
       "forks": 3106,
-      "issues": 158,
+      "createdAt": "2025-04-01T10:53:54Z",
       "updatedAt": "2026-08-21T14:30:20Z"
     },
     {
@@ -570,7 +570,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/39270919?v=4",
       "stars": 27324,
       "forks": 2260,
-      "issues": 274,
+      "createdAt": "2024-11-30T01:47:40Z",
       "updatedAt": "2026-08-21T16:46:44Z"
     },
     {
@@ -583,7 +583,7 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/118165258?v=4",
       "stars": 39061,
       "forks": 5491,
-      "issues": 208,
+      "createdAt": "2024-10-02T11:57:54Z",
       "updatedAt": "2026-08-21T16:54:07Z"
     }
   ]

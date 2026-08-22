@@ -2,19 +2,17 @@ import type { Repo } from './types.ts';
 
 export const SORT_IDS = [
   'stars-desc',
+  'created-desc',
   'name-asc',
   'name-desc',
-  'language',
-  'category',
 ] as const;
 export type SortId = (typeof SORT_IDS)[number];
 
 export const SORT_OPTIONS: { value: SortId; label: string }[] = [
   { value: 'stars-desc', label: 'Stars' },
+  { value: 'created-desc', label: 'Latest' },
   { value: 'name-asc', label: 'Name A–Z' },
   { value: 'name-desc', label: 'Name Z–A' },
-  { value: 'language', label: 'Language' },
-  { value: 'category', label: 'Category' },
 ];
 
 export function languagesIn(repos: Repo[]): string[] {
@@ -52,13 +50,11 @@ export function sortRepos(repos: Repo[], sort: SortId): Repo[] {
       return copy.sort(byName);
     case 'name-desc':
       return copy.sort((a, b) => byName(b, a));
-    case 'language':
-      return copy.sort(
-        (a, b) => a.language.localeCompare(b.language) || byName(a, b),
-      );
-    case 'category':
-      return copy.sort(
-        (a, b) => a.category.localeCompare(b.category) || byName(a, b),
-      );
+    case 'created-desc':
+      return copy.sort((a, b) => {
+        const tb = Date.parse(b.createdAt) || 0;
+        const ta = Date.parse(a.createdAt) || 0;
+        return tb - ta || byName(a, b);
+      });
   }
 }

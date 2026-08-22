@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: update-repos
@@ -43,13 +44,22 @@ jobs:
           if-no-files-found: ignore
 
       - name: Commit catalog changes
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data/*.json
           if git diff --staged --quiet; then
             echo "No catalog changes"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "chore: refresh catalog from GitHub and LLM judge"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Deploy Pages
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run deploy-pages.yml --ref "${{ github.ref_name }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

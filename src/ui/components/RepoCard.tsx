@@ -1,10 +1,6 @@
-import { CircleAlert, GitFork, Star } from 'lucide-react';
+import { GitFork, Star } from 'lucide-react';
 import { useState } from 'react';
-import {
-  formatCount,
-  formatUpdatedAt,
-  type Repo,
-} from '../../logic/index.ts';
+import { formatCount, formatDate, formatUpdatedAt, type Repo } from '../../logic/index.ts';
 import { Badge } from './Badge.tsx';
 
 type Props = {
@@ -46,12 +42,10 @@ export function RepoCard({ repo, categoryName }: Props) {
         </span>
       </span>
 
-      <span className="line-clamp-2 min-h-[2.5rem] text-sm text-muted">
-        {repo.summary}
-      </span>
+      <span className="line-clamp-2 min-h-[2.5rem] text-sm text-muted">{repo.summary}</span>
 
       <span className="flex flex-wrap gap-1.5">
-        <Badge>{repo.language}</Badge>
+        {repo.language && <Badge>{repo.language}</Badge>}
         <Badge>{categoryName}</Badge>
       </span>
 
@@ -64,14 +58,11 @@ export function RepoCard({ repo, categoryName }: Props) {
           <GitFork size={14} aria-hidden />
           {formatCount(repo.forks)}
         </span>
-        <span className="inline-flex items-center gap-1">
-          <CircleAlert size={14} aria-hidden />
-          {formatCount(repo.issues)}
-        </span>
       </span>
 
-      <span className="border-t border-line pt-3 text-xs text-muted">
-        {formatUpdatedAt(repo.updatedAt)}
+      <span className="flex items-center justify-between gap-3 border-t border-line pt-3 text-xs text-muted">
+        <span>{formatDate(repo.createdAt)}</span>
+        <span>{formatUpdatedAt(repo.updatedAt)}</span>
       </span>
     </a>
   );

@@ -25,6 +25,7 @@
     "cloudflare": "^7.1.0",
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
+    "date-fns": "^4.4.0",
     "lucide-react": "^0.511.0",
     "minisearch": "^7.2.0",
     "react": "^19.2.8",

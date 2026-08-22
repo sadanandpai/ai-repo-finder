@@ -22,7 +22,7 @@ export type Repo = {
   avatarUrl: string;
   stars: number;
   forks: number;
-  issues: number;
+  createdAt: string;
   updatedAt: string;
 };
 

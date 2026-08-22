@@ -48,7 +48,7 @@ function fromPayload(item: GitHubRepoPayload): GitHubRepo {
     avatarUrl: item.owner.avatar_url,
     stars: item.stargazers_count,
     forks: item.forks_count,
-    issues: item.open_issues_count,
+    createdAt: item.created_at,
     updatedAt: item.updated_at,
   };
 }
@@ -162,7 +162,7 @@ export function toListedRepo(repo: GitHubRepo, summary: string): ListedRepo {
     avatarUrl: repo.avatarUrl,
     stars: repo.stars,
     forks: repo.forks,
-    issues: repo.issues,
+    createdAt: repo.createdAt,
     updatedAt: repo.updatedAt,
   };
 }
@@ -191,7 +191,7 @@ function applyGitHub(repo: ListedRepo, gh: GitHubRepo): ListedRepo {
     avatarUrl: gh.avatarUrl || repo.avatarUrl,
     stars: gh.stars,
     forks: gh.forks,
-    issues: gh.issues,
+    createdAt: gh.createdAt || repo.createdAt,
     updatedAt: gh.updatedAt,
   };
 }

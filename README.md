@@ -50,8 +50,8 @@ Optional: `CLOUDFLARE_ACCOUNT_ID` (defaults to the provided account), `CLOUDFLAR
 Add another GitHub search in `scripts/repo-helper.ts` (`collectRepos()`).
 
 GitHub Action: `.github/workflows/update-repos.yml` — daily 08:00 IST (02:30 UTC) + manual dispatch. Commits
-catalog diffs; uploads `discovered.json` as an artifact. Set repo secret `CLOUDFLARE_AUTH_TOKEN` (or `CLOUDFLARE_API_TOKEN`) so classify runs in CI.
+catalog diffs; uploads `discovered.json` as an artifact; dispatches Pages deploy when the catalog changed. Set repo secret `CLOUDFLARE_AUTH_TOKEN` (or `CLOUDFLARE_API_TOKEN`) so classify runs in CI.
 
 ## Deploy
 
-Push to `main` → `.github/workflows/deploy-pages.yml` builds and deploys GitHub Pages.
+Push to `main` or a catalog update → `.github/workflows/deploy-pages.yml` builds and deploys GitHub Pages.

@@ -27,7 +27,7 @@ export type ListedRepo = {
   avatarUrl: string;
   stars: number;
   forks: number;
-  issues: number;
+  createdAt: string;
   updatedAt: string;
 };
 
@@ -41,7 +41,7 @@ export type GitHubRepo = {
   avatarUrl: string;
   stars: number;
   forks: number;
-  issues: number;
+  createdAt: string;
   updatedAt: string;
 };
 
@@ -54,6 +54,6 @@ export type GitHubRepoPayload = {
   owner: { login: string; avatar_url: string };
   stargazers_count: number;
   forks_count: number;
-  open_issues_count: number;
+  created_at: string;
   updated_at: string;
 };
