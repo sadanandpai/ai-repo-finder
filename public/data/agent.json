@@ -1001,6 +1001,19 @@
       "forks": 1803,
       "createdAt": "2026-02-23T05:56:28Z",
       "updatedAt": "2026-10-03T08:28:22Z"
+    },
+    {
+      "slug": "vostride/agent-qa",
+      "url": "https://github.com/vostride/agent-qa",
+      "summary": "Natural-language web and mobile QA execution for coding agents, with MCP tools and execution memory.",
+      "language": "TypeScript",
+      "owner": "vostride",
+      "name": "agent-qa",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/266585013?v=4",
+      "stars": 897,
+      "forks": 20,
+      "createdAt": "2026-05-07T20:17:57Z",
+      "updatedAt": "2026-10-03T18:50:13Z"
     }
   ]
 }
