@@ -9,10 +9,10 @@
       "owner": "colbymchenry",
       "name": "codegraph",
       "avatarUrl": "https://avatars.githubusercontent.com/u/18431132?v=4",
-      "stars": 73703,
-      "forks": 4747,
+      "stars": 73791,
+      "forks": 4759,
       "createdAt": "2026-01-18T21:45:37Z",
-      "updatedAt": "2026-10-11T09:07:05Z"
+      "updatedAt": "2026-10-12T09:30:45Z"
     },
     {
       "slug": "tirth8205/code-review-graph",
@@ -22,10 +22,10 @@
       "owner": "tirth8205",
       "name": "code-review-graph",
       "avatarUrl": "https://avatars.githubusercontent.com/u/68604113?v=4",
-      "stars": 32032,
+      "stars": 32060,
       "forks": 2936,
       "createdAt": "2026-02-26T17:25:13Z",
-      "updatedAt": "2026-10-11T07:55:52Z"
+      "updatedAt": "2026-10-12T09:05:19Z"
     },
     {
       "slug": "DeusData/codebase-memory-mcp",
@@ -35,10 +35,10 @@
       "owner": "DeusData",
       "name": "codebase-memory-mcp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/81762164?v=4",
-      "stars": 46333,
-      "forks": 3809,
+      "stars": 46404,
+      "forks": 3813,
       "createdAt": "2026-02-24T22:01:00Z",
-      "updatedAt": "2026-10-11T09:00:38Z"
+      "updatedAt": "2026-10-12T09:33:42Z"
     },
     {
       "slug": "Graphify-Labs/graphify",
@@ -48,10 +48,10 @@
       "owner": "Graphify-Labs",
       "name": "graphify",
       "avatarUrl": "https://avatars.githubusercontent.com/u/297659074?v=4",
-      "stars": 125377,
-      "forks": 12100,
+      "stars": 125684,
+      "forks": 12132,
       "createdAt": "2026-04-03T15:49:07Z",
-      "updatedAt": "2026-10-11T09:12:41Z"
+      "updatedAt": "2026-10-12T09:40:24Z"
     },
     {
       "slug": "rohitg00/agentmemory",
@@ -61,10 +61,10 @@
       "owner": "rohitg00",
       "name": "agentmemory",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48523873?v=4",
-      "stars": 29296,
-      "forks": 2569,
+      "stars": 29335,
+      "forks": 2573,
       "createdAt": "2026-02-25T07:32:52Z",
-      "updatedAt": "2026-10-11T06:43:18Z"
+      "updatedAt": "2026-10-12T09:34:08Z"
     },
     {
       "slug": "gastownhall/beads",
@@ -74,10 +74,10 @@
       "owner": "gastownhall",
       "name": "beads",
       "avatarUrl": "https://avatars.githubusercontent.com/u/255961667?v=4",
-      "stars": 27792,
-      "forks": 1881,
+      "stars": 27820,
+      "forks": 1883,
       "createdAt": "2025-10-12T03:09:46Z",
-      "updatedAt": "2026-10-11T08:51:35Z"
+      "updatedAt": "2026-10-12T09:18:24Z"
     },
     {
       "slug": "yamadashy/repomix",
@@ -87,10 +87,10 @@
       "owner": "yamadashy",
       "name": "repomix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5019072?v=4",
-      "stars": 28791,
+      "stars": 28802,
       "forks": 1579,
       "createdAt": "2024-07-13T07:11:32Z",
-      "updatedAt": "2026-10-11T09:05:02Z"
+      "updatedAt": "2026-10-12T02:53:54Z"
     },
     {
       "slug": "stablyai/orca",
@@ -100,10 +100,10 @@
       "owner": "stablyai",
       "name": "orca",
       "avatarUrl": "https://avatars.githubusercontent.com/u/127256420?v=4",
-      "stars": 89389,
-      "forks": 5715,
+      "stars": 90196,
+      "forks": 5766,
       "createdAt": "2026-03-17T03:28:57Z",
-      "updatedAt": "2026-10-11T09:15:13Z"
+      "updatedAt": "2026-10-12T09:40:56Z"
     },
     {
       "slug": "get-bb/bb",
@@ -113,10 +113,10 @@
       "owner": "get-bb",
       "name": "bb",
       "avatarUrl": "https://avatars.githubusercontent.com/u/313143606?v=4",
-      "stars": 4234,
-      "forks": 625,
+      "stars": 4241,
+      "forks": 628,
       "createdAt": "2026-02-24T22:32:40Z",
-      "updatedAt": "2026-10-11T08:11:46Z"
+      "updatedAt": "2026-10-12T05:38:27Z"
     },
     {
       "slug": "multica-ai/multica",
@@ -126,10 +126,10 @@
       "owner": "multica-ai",
       "name": "multica",
       "avatarUrl": "https://avatars.githubusercontent.com/u/254743058?v=4",
-      "stars": 52447,
-      "forks": 6832,
+      "stars": 52561,
+      "forks": 6853,
       "createdAt": "2026-01-13T17:59:46Z",
-      "updatedAt": "2026-10-11T08:48:48Z"
+      "updatedAt": "2026-10-12T09:29:36Z"
     },
     {
       "slug": "langchain-ai/openwiki",
@@ -139,10 +139,10 @@
       "owner": "langchain-ai",
       "name": "openwiki",
       "avatarUrl": "https://avatars.githubusercontent.com/u/126733545?v=4",
-      "stars": 17081,
-      "forks": 1252,
+      "stars": 17098,
+      "forks": 1251,
       "createdAt": "2026-06-22T23:48:26Z",
-      "updatedAt": "2026-10-11T09:08:55Z"
+      "updatedAt": "2026-10-12T09:34:11Z"
     },
     {
       "slug": "rtk-ai/rtk",
@@ -152,10 +152,10 @@
       "owner": "rtk-ai",
       "name": "rtk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/258253854?v=4",
-      "stars": 82920,
-      "forks": 5263,
+      "stars": 83029,
+      "forks": 5272,
       "createdAt": "2026-01-22T16:54:16Z",
-      "updatedAt": "2026-10-11T09:11:03Z"
+      "updatedAt": "2026-10-12T09:40:28Z"
     },
     {
       "slug": "github/spec-kit",
@@ -165,10 +165,10 @@
       "owner": "github",
       "name": "spec-kit",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
-      "stars": 140766,
-      "forks": 12607,
+      "stars": 140901,
+      "forks": 12613,
       "createdAt": "2025-08-21T22:54:31Z",
-      "updatedAt": "2026-10-11T09:04:18Z"
+      "updatedAt": "2026-10-12T09:37:44Z"
     },
     {
       "slug": "farion1231/cc-switch",
@@ -178,10 +178,10 @@
       "owner": "farion1231",
       "name": "cc-switch",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44939412?v=4",
-      "stars": 142626,
-      "forks": 9501,
+      "stars": 143125,
+      "forks": 9525,
       "createdAt": "2025-08-04T14:16:16Z",
-      "updatedAt": "2026-10-11T09:15:12Z"
+      "updatedAt": "2026-10-12T09:41:05Z"
     },
     {
       "slug": "google-gemini/gemini-cli",
@@ -191,10 +191,10 @@
       "owner": "google-gemini",
       "name": "gemini-cli",
       "avatarUrl": "https://avatars.githubusercontent.com/u/161781182?v=4",
-      "stars": 107280,
-      "forks": 14705,
+      "stars": 107293,
+      "forks": 14700,
       "createdAt": "2025-04-17T17:04:31Z",
-      "updatedAt": "2026-10-11T09:01:25Z"
+      "updatedAt": "2026-10-12T09:32:42Z"
     },
     {
       "slug": "thedotmack/claude-mem",
@@ -204,10 +204,10 @@
       "owner": "thedotmack",
       "name": "claude-mem",
       "avatarUrl": "https://avatars.githubusercontent.com/u/683968?v=4",
-      "stars": 99431,
-      "forks": 8718,
+      "stars": 99887,
+      "forks": 8763,
       "createdAt": "2025-08-31T20:50:03Z",
-      "updatedAt": "2026-10-11T09:14:46Z"
+      "updatedAt": "2026-10-12T09:40:45Z"
     },
     {
       "slug": "OpenHands/OpenHands",
@@ -217,10 +217,10 @@
       "owner": "OpenHands",
       "name": "OpenHands",
       "avatarUrl": "https://avatars.githubusercontent.com/u/225919603?v=4",
-      "stars": 90544,
-      "forks": 11990,
+      "stars": 90670,
+      "forks": 12007,
       "createdAt": "2024-03-13T03:33:31Z",
-      "updatedAt": "2026-10-11T09:04:37Z"
+      "updatedAt": "2026-10-12T09:35:40Z"
     },
     {
       "slug": "daytonaio/daytona",
@@ -230,10 +230,10 @@
       "owner": "daytonaio",
       "name": "daytona",
       "avatarUrl": "https://avatars.githubusercontent.com/u/130513197?v=4",
-      "stars": 71572,
-      "forks": 5644,
+      "stars": 71564,
+      "forks": 5647,
       "createdAt": "2024-02-06T08:21:20Z",
-      "updatedAt": "2026-10-11T08:42:06Z"
+      "updatedAt": "2026-10-12T09:12:04Z"
     },
     {
       "slug": "code-yeongyu/oh-my-openagent",
@@ -243,10 +243,10 @@
       "owner": "code-yeongyu",
       "name": "oh-my-openagent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11153873?v=4",
-      "stars": 69951,
+      "stars": 69975,
       "forks": 5746,
       "createdAt": "2025-12-03T01:40:05Z",
-      "updatedAt": "2026-10-11T09:11:16Z"
+      "updatedAt": "2026-10-12T09:37:15Z"
     },
     {
       "slug": "headroomlabs-ai/headroom",
@@ -256,10 +256,10 @@
       "owner": "headroomlabs-ai",
       "name": "headroom",
       "avatarUrl": "https://avatars.githubusercontent.com/u/294291659?v=4",
-      "stars": 74991,
-      "forks": 5817,
+      "stars": 75103,
+      "forks": 5824,
       "createdAt": "2026-01-07T19:58:51Z",
-      "updatedAt": "2026-10-11T08:50:37Z"
+      "updatedAt": "2026-10-12T09:37:28Z"
     },
     {
       "slug": "Fission-AI/OpenSpec",
@@ -269,10 +269,10 @@
       "owner": "Fission-AI",
       "name": "OpenSpec",
       "avatarUrl": "https://avatars.githubusercontent.com/u/203414896?v=4",
-      "stars": 71600,
-      "forks": 4885,
+      "stars": 71697,
+      "forks": 4890,
       "createdAt": "2025-08-05T10:37:45Z",
-      "updatedAt": "2026-10-11T09:04:53Z"
+      "updatedAt": "2026-10-12T09:36:41Z"
     },
     {
       "slug": "upstash/context7",
@@ -282,10 +282,10 @@
       "owner": "upstash",
       "name": "context7",
       "avatarUrl": "https://avatars.githubusercontent.com/u/74989412?v=4",
-      "stars": 62892,
-      "forks": 3064,
+      "stars": 62919,
+      "forks": 3068,
       "createdAt": "2025-03-26T23:40:39Z",
-      "updatedAt": "2026-10-11T07:52:19Z"
+      "updatedAt": "2026-10-12T09:33:38Z"
     },
     {
       "slug": "usestrix/strix",
@@ -295,10 +295,10 @@
       "owner": "usestrix",
       "name": "strix",
       "avatarUrl": "https://avatars.githubusercontent.com/u/187630752?v=4",
-      "stars": 67839,
-      "forks": 7508,
+      "stars": 68039,
+      "forks": 7533,
       "createdAt": "2025-08-05T21:28:30Z",
-      "updatedAt": "2026-10-11T09:14:58Z"
+      "updatedAt": "2026-10-12T09:37:37Z"
     },
     {
       "slug": "aaif-goose/goose",
@@ -308,10 +308,10 @@
       "owner": "aaif-goose",
       "name": "goose",
       "avatarUrl": "https://avatars.githubusercontent.com/u/271095942?v=4",
-      "stars": 55147,
-      "forks": 6405,
+      "stars": 55185,
+      "forks": 6408,
       "createdAt": "2024-08-23T19:03:36Z",
-      "updatedAt": "2026-10-11T09:14:43Z"
+      "updatedAt": "2026-10-12T09:23:41Z"
     },
     {
       "slug": "ChromeDevTools/chrome-devtools-mcp",
@@ -321,10 +321,10 @@
       "owner": "ChromeDevTools",
       "name": "chrome-devtools-mcp",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11260967?v=4",
-      "stars": 53258,
-      "forks": 6178,
+      "stars": 53322,
+      "forks": 6332,
       "createdAt": "2025-09-11T10:39:55Z",
-      "updatedAt": "2026-10-11T09:12:41Z"
+      "updatedAt": "2026-10-12T09:36:11Z"
     },
     {
       "slug": "Hmbown/CodeWhale",
@@ -334,10 +334,10 @@
       "owner": "Hmbown",
       "name": "CodeWhale",
       "avatarUrl": "https://avatars.githubusercontent.com/u/326694313?v=4",
-      "stars": 41082,
-      "forks": 3568,
+      "stars": 41072,
+      "forks": 3565,
       "createdAt": "2026-01-19T18:21:01Z",
-      "updatedAt": "2026-10-11T08:52:01Z"
+      "updatedAt": "2026-10-12T09:35:55Z"
     },
     {
       "slug": "Yeachan-Heo/oh-my-claudecode",
@@ -347,10 +347,10 @@
       "owner": "Yeachan-Heo",
       "name": "oh-my-claudecode",
       "avatarUrl": "https://avatars.githubusercontent.com/u/54757707?v=4",
-      "stars": 39783,
-      "forks": 3563,
+      "stars": 39815,
+      "forks": 3566,
       "createdAt": "2026-01-09T03:36:29Z",
-      "updatedAt": "2026-10-11T09:14:37Z"
+      "updatedAt": "2026-10-12T09:36:57Z"
     },
     {
       "slug": "github/github-mcp-server",
@@ -360,10 +360,10 @@
       "owner": "github",
       "name": "github-mcp-server",
       "avatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
-      "stars": 33505,
-      "forks": 5130,
+      "stars": 33540,
+      "forks": 5132,
       "createdAt": "2025-03-04T16:42:04Z",
-      "updatedAt": "2026-10-11T08:11:54Z"
+      "updatedAt": "2026-10-12T09:34:18Z"
     },
     {
       "slug": "herdrdev/herdr",
@@ -373,10 +373,10 @@
       "owner": "herdrdev",
       "name": "herdr",
       "avatarUrl": "https://avatars.githubusercontent.com/u/309108654?v=4",
-      "stars": 43318,
-      "forks": 3415,
+      "stars": 43506,
+      "forks": 3428,
       "createdAt": "2026-03-27T17:54:33Z",
-      "updatedAt": "2026-10-11T08:58:06Z"
+      "updatedAt": "2026-10-12T09:40:31Z"
     },
     {
       "slug": "charmbracelet/crush",
@@ -386,10 +386,10 @@
       "owner": "charmbracelet",
       "name": "crush",
       "avatarUrl": "https://avatars.githubusercontent.com/u/57376114?v=4",
-      "stars": 28594,
-      "forks": 2326,
+      "stars": 28602,
+      "forks": 2328,
       "createdAt": "2025-05-21T12:14:57Z",
-      "updatedAt": "2026-10-11T09:13:14Z"
+      "updatedAt": "2026-10-12T09:34:25Z"
     },
     {
       "slug": "dyad-sh/dyad",
@@ -399,10 +399,10 @@
       "owner": "dyad-sh",
       "name": "dyad",
       "avatarUrl": "https://avatars.githubusercontent.com/u/183970190?v=4",
-      "stars": 21832,
-      "forks": 2724,
+      "stars": 21855,
+      "forks": 2729,
       "createdAt": "2025-04-11T06:33:48Z",
-      "updatedAt": "2026-10-11T08:57:19Z"
+      "updatedAt": "2026-10-12T09:09:44Z"
     },
     {
       "slug": "cobusgreyling/loop-engineering",
@@ -412,10 +412,10 @@
       "owner": "cobusgreyling",
       "name": "loop-engineering",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7868717?v=4",
-      "stars": 11488,
-      "forks": 1545,
+      "stars": 11507,
+      "forks": 1550,
       "createdAt": "2026-06-09T06:28:20Z",
-      "updatedAt": "2026-10-11T07:45:33Z"
+      "updatedAt": "2026-10-12T08:49:49Z"
     },
     {
       "slug": "superset-sh/superset",
@@ -425,10 +425,10 @@
       "owner": "superset-sh",
       "name": "superset",
       "avatarUrl": "https://avatars.githubusercontent.com/u/242687620?v=4",
-      "stars": 15065,
-      "forks": 1343,
+      "stars": 15088,
+      "forks": 1345,
       "createdAt": "2025-10-21T09:16:51Z",
-      "updatedAt": "2026-10-11T08:24:34Z"
+      "updatedAt": "2026-10-12T09:19:58Z"
     }
   ]
 }
